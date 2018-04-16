@@ -1,6 +1,6 @@
-#react 를 공부하기 위해 만들어 진 개인 저장소.
+# react 를 공부하기 위해 만들어 진 개인 저장소.
 
-##react-01
+## react-01
 - 공부하기에 앞서 공부 할 수 있는 환경구성을 셋팅함.
 - webpack 을 이용해 구성.
     - babel  : `babel-core`, `babel-loader`, `babel-preset-env`, `babel-preset-react`
@@ -17,5 +17,5 @@
 - `html-webpack-plugin` 을 통해 html template 을 사용할 수 있음.
 - 차후 실제 프로젝트 환경에서 사용할 수 있도록 이미지 로더 등등을 추가할 예정이며, 정적구성요소들의 폴더구성도 세세하게 조정할 예정.
 
-##react-02
+## react-02
 - react 가 실행 되면서 각각 상태별 실행되는 메서드의 순서를 파악할 수 있음.
